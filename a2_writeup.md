@@ -13,8 +13,8 @@ This assignment is about learning and applying the while loop and iterating thro
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
 
-
+A: Matching the % was the hardest one, there is a lot of conditions to think about when using the %
 
 2. Explain how you could use the match function for extracting information from a movie database.
 
-
+A: It can be useful for when you are googling something and you can't remember the exact descrption or name of something. As long as you remeber the main words, the function can take the important words and output anything that is similar to what you put, and potenitally find the exact thing. It would be like the autosearch when you put one word and google guesses what are you looking up for.
